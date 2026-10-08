@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "date": "18.04.2019",
+    "time": "11:13:58",
+    "payment_method": "Банковская карта"
+  },
+  "items": [
+    {
+      "name": "Натрия хлорид 0,9%, 200 мл, фл",
+      "quantity": 2.0,
+      "unit_price": 154.0,
+      "total_price": 308.0
+    },
+    {
+      "name": "Борный спирт 3%, 20 мл, фл.",
+      "quantity": 1.0,
+      "unit_price": 51.0,
+      "total_price": 51.0
+    },
+    
+    {
+      "name": "[RX]-Андазол 200 мг, №40, табл.",
+      "quantity": 1.0,
+      "unit_price": 7330.0,
+      "total_price": 7330.0
+    }
+  ],
+  "summary": {
+    "total_amount": 18009.0,
+    "calculated_total": 18009.0,
+    "total_items_count": 20
+  }
+}
