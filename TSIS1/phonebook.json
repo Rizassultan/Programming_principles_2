@@ -1,0 +1,84 @@
+[
+    {
+        "first_name": "Charlie",
+        "last_name": "",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "+333333333",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Bob",
+        "last_name": "Jones",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "+222222222",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Al'bar",
+        "last_name": "Krm",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "+9999999999",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Alikhan",
+        "last_name": "Moldabayev",
+        "email": "alikhan@gmail.com",
+        "birthday": "2006-05-14",
+        "group": "Family",
+        "phones": [
+            {
+                "phone": "+77015551122",
+                "type": "mobile"
+            },
+            {
+                "phone": "87002223312",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "first_name": "Aruzhan",
+        "last_name": "Sadykova",
+        "email": "aruzhan@work.kz",
+        "birthday": "2005-11-20",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "+77072223344",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "first_name": "Dias",
+        "last_name": "Kairatov",
+        "email": "dias@mail.ru",
+        "birthday": "2006-01-30",
+        "group": "Friend",
+        "phones": [
+            {
+                "phone": "+77029998877",
+                "type": "home"
+            }
+        ]
+    }
+]

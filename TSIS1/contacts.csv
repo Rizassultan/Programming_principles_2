@@ -1,0 +1,5 @@
+first_name,last_name,phone,phone_type,email,birthday,group
+Alikhan,Moldabayev,+77015551122,mobile,alikhan@gmail.com,2006-05-14,Family
+Aruzhan,Sadykova,+77072223344,work,aruzhan@work.kz,2005-11-20,Work
+Dias,Kairatov,+77029998877,home,dias@mail.ru,2006-01-30,Friend
+BadContact,Test,8705123,mobile,bad@gmail.com,2000-01-01,Other
